@@ -1,16 +1,5 @@
-Perfect — below is a **professionally enhanced, future-proof README** that:
 
-* ✅ Keeps **ALL v1 claims intact**
-* ✅ Clearly documents **Phase 2 in detail**
-* ✅ Explains **HOW Phase 2 will be implemented** (engineering-level)
-* ✅ Looks **SIH / research / recruiter ready**
-* ❌ Does NOT exaggerate current capabilities
-
-You can **directly paste this** as your `README.md`.
-
----
-
-# 🌊 Flood Risk Prediction System (v1 → Phase 2 Roadmap)
+# 🌊 Flood Risk Prediction System 
 
 An early-stage **machine learning–powered flood risk prediction system** for Indian cities, combining environmental data analysis with geospatial visualization to identify flood-prone regions and assess risk severity.
 
